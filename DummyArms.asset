@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8755cbbdf758cde46aa23da0b7bc05cc, type: 3}
+  m_Name: DummyArms
+  m_EditorClassIdentifier: 
+  controller: {fileID: 9100000, guid: 22bc4d79ead8ea946a435ec040b4f77c, type: 2}
+  grabName: Default Grab
+  grabDamage: 20
+  grabStartup: 10
+  grabActive: 5
+  grabRecovery: 30
+  grabLength: 0
+  standingLightName: default standing LP
+  standingLightDamage: 10
+  standingLightStartup: 5
+  standingLightActive: 10
+  standingLightRecovery: 20
+  standingLightLength: 35
+  standingMediumName: default standing MP
+  standingMediumDamage: 15
+  standingMediumStartup: 15
+  standingMediumActive: 10
+  standingMediumRecovery: 25
+  standingMediumLength: 50
+  standingHeavyName: default standing HP
+  standingHeavyDamage: 15
+  standingHeavyStartup: 20
+  standingHeavyActive: 10
+  standingHeavyRecovery: 25
+  standingHeavyLength: 55
+  crouchingLightName: default crouching LP
+  crouchingLightDamage: 10
+  crouchingLightStartup: 10
+  crouchingLightActive: 5
+  crouchingLightRecovery: 15
+  crouchingLightLength: 30
+  crouchingMediumName: default crouching MP
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: default crouching HP
+  crouchingHeavyDamage: 0
+  crouchingHeavyStartup: 0
+  crouchingHeavyActive: 0
+  crouchingHeavyRecovery: 0
+  crouchingHeavyLength: 0
+  airLightName: default air LP
+  airLightDamage: 10
+  airLightStartup: 10
+  airLightActive: 8
+  airLightRecovery: 10
+  airLightLength: 28
+  airMediumName: default air MP
+  airMediumDamage: 10
+  airMediumStartup: 10
+  airMediumActive: 5
+  airMediumRecovery: 10
+  airMediumLength: 0
+  airHeavyName: default air HP
+  airHeavyDamage: 10
+  airHeavyStartup: 10
+  airHeavyActive: 5
+  airHeavyRecovery: 10
+  airHeavyLength: 25

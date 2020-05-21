@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5d4bccbcf0bbaa4cb23b8527e2e1cca, type: 3}
+  m_Name: PlayerEffectsPack
+  m_EditorClassIdentifier: 
+  dashBackClouds: {fileID: 3085810609881737921, guid: d34a4e8008566a44d9cc502cf21e87a0,
+    type: 3}
+  dashBackSparks: {fileID: 2073804365310909360, guid: fd7eab7aad5f3a84f95ebd467274fb9a,
+    type: 3}
+  dashFwdClouds: {fileID: 8838817806524067099, guid: ea666fd24880a3549818271343041b34,
+    type: 3}
+  dashFwdSparks: {fileID: 6247632993576028763, guid: d9af511636aeb9644834b2cadbfdab7d,
+    type: 3}
+  jumpClouds: {fileID: 4944182201587121076, guid: 24215dca6d6b80349bebe29a31aabb1b,
+    type: 3}
+  landClouds: {fileID: 2519303740387918918, guid: 0124562951bfd77418695f35bb0b7458,
+    type: 3}
+  lightPunch: {fileID: 6474293204551483312, guid: f8a5de20d3022ad4290cd90bfd33f3de,
+    type: 3}
+  mediumPunch: {fileID: 4027868142919970017, guid: 4a3eb2b9f8cc2704289bc0da1035053e,
+    type: 3}
+  heavyPunch: {fileID: 1319509383024893422, guid: 571e90b374bfd4f48aa7e305451903b8,
+    type: 3}
+  lightKick: {fileID: 1000537123217662835, guid: 1d0d40c155c8dbe4f8dee4a861895d97,
+    type: 3}
+  mediumKick: {fileID: 6762684375615644070, guid: 50a58b2e40a906e4f9b4bfd301f4b352,
+    type: 3}
+  heavyKick: {fileID: 8377149508329625216, guid: c19d93904a309584b955df62359b6e0e,
+    type: 3}
+  blocked: {fileID: 4784654873025260477, guid: 9638bf139cb80ac4faf0295f8c431932, type: 3}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8755cbbdf758cde46aa23da0b7bc05cc, type: 3}
+  m_Name: WerewolfArms
+  m_EditorClassIdentifier: 
+  controller: {fileID: 22100000, guid: 54a5fa25f08394b4eb1f364ce919bf54, type: 2}
+  grabName: 
+  grabDamage: 0
+  grabStartup: 0
+  grabActive: 0
+  grabRecovery: 0
+  grabLength: 0
+  standingLightName: werewolf standing LP
+  standingLightDamage: 8
+  standingLightStartup: 3
+  standingLightActive: 8
+  standingLightRecovery: 18
+  standingLightLength: 35
+  standingMediumName: werewolf standing MP
+  standingMediumDamage: 13
+  standingMediumStartup: 10
+  standingMediumActive: 10
+  standingMediumRecovery: 23
+  standingMediumLength: 50
+  standingHeavyName: werewolf standing HP
+  standingHeavyDamage: 18
+  standingHeavyStartup: 18
+  standingHeavyActive: 8
+  standingHeavyRecovery: 24
+  standingHeavyLength: 55
+  crouchingLightName: werewolf crouching LP
+  crouchingLightDamage: 8
+  crouchingLightStartup: 8
+  crouchingLightActive: 5
+  crouchingLightRecovery: 13
+  crouchingLightLength: 30
+  crouchingMediumName: werewolf crouching MP
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: werewolf crouching HP
+  crouchingHeavyDamage: 0
+  crouchingHeavyStartup: 0
+  crouchingHeavyActive: 0
+  crouchingHeavyRecovery: 0
+  crouchingHeavyLength: 0
+  airLightName: werewolf air LP
+  airLightDamage: 8
+  airLightStartup: 8
+  airLightActive: 8
+  airLightRecovery: 8
+  airLightLength: 28
+  airMediumName: werewolf air MP
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: werewolf air HP
+  airHeavyDamage: 10
+  airHeavyStartup: 10
+  airHeavyActive: 5
+  airHeavyRecovery: 10
+  airHeavyLength: 25

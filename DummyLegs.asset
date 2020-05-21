@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0439c584b80c86b4c885da635d54c49c, type: 3}
+  m_Name: DummyLegs
+  m_EditorClassIdentifier: 
+  controller: {fileID: 9100000, guid: d9f847c7f1881be41adffc6547db8b82, type: 2}
+  moveSpeed: 4
+  jumpForce: 12
+  maxJumpFrames: 17
+  maxDashFrames: 8
+  dashTime: 11
+  dashSpeed: 3.5
+  gravity: 2.5
+  fallingGravity: 5
+  standingLightName: Default Standing LK
+  standingLightDamage: 9
+  standingLightStartup: 10
+  standingLightActive: 20
+  standingLightRecovery: 15
+  standingLightLength: 45
+  standingMediumName: Default Standing MK
+  standingMediumDamage: 10
+  standingMediumStartup: 15
+  standingMediumActive: 25
+  standingMediumRecovery: 25
+  standingMediumLength: 65
+  standingHeavyName: Default Standing HK
+  standingHeavyDamage: 20
+  standingHeavyStartup: 19
+  standingHeavyActive: 15
+  standingHeavyRecovery: 15
+  standingHeavyLength: 49
+  crouchingLightName: Default Crouching LK
+  crouchingLightDamage: 0
+  crouchingLightStartup: 0
+  crouchingLightActive: 0
+  crouchingLightRecovery: 0
+  crouchingLightLength: 0
+  crouchingMediumName: Default Crouching MK
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: Default Crouching HK
+  crouchingHeavyDamage: 20
+  crouchingHeavyStartup: 20
+  crouchingHeavyActive: 15
+  crouchingHeavyRecovery: 40
+  crouchingHeavyLength: 75
+  airLightName: Default Air LK
+  airLightDamage: 10
+  airLightStartup: 8
+  airLightActive: 15
+  airLightRecovery: 8
+  airLightLength: 31
+  airMediumName: Default Air MK
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: Default Air HK
+  airHeavyDamage: 20
+  airHeavyStartup: 15
+  airHeavyActive: 15
+  airHeavyRecovery: 30
+  airHeavyLength: 60

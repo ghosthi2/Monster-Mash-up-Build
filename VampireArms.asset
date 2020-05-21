@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8755cbbdf758cde46aa23da0b7bc05cc, type: 3}
+  m_Name: VampireArms
+  m_EditorClassIdentifier: 
+  controller: {fileID: 22100000, guid: d64da85e0b7f9a9418292d23dc837c66, type: 2}
+  grabName: 
+  grabDamage: 0
+  grabStartup: 0
+  grabActive: 0
+  grabRecovery: 0
+  grabLength: 0
+  standingLightName: Vampire standing LP
+  standingLightDamage: 9
+  standingLightStartup: 4
+  standingLightActive: 9
+  standingLightRecovery: 19
+  standingLightLength: 35
+  standingMediumName: Vampire standing MP
+  standingMediumDamage: 14
+  standingMediumStartup: 14
+  standingMediumActive: 9
+  standingMediumRecovery: 24
+  standingMediumLength: 50
+  standingHeavyName: Vampire standing HP
+  standingHeavyDamage: 14
+  standingHeavyStartup: 19
+  standingHeavyActive: 9
+  standingHeavyRecovery: 24
+  standingHeavyLength: 55
+  crouchingLightName: Vampire crouching LP
+  crouchingLightDamage: 9
+  crouchingLightStartup: 9
+  crouchingLightActive: 4
+  crouchingLightRecovery: 14
+  crouchingLightLength: 30
+  crouchingMediumName: Vampire crouching MP
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: Vampire crouching HP
+  crouchingHeavyDamage: 0
+  crouchingHeavyStartup: 0
+  crouchingHeavyActive: 0
+  crouchingHeavyRecovery: 0
+  crouchingHeavyLength: 0
+  airLightName: Vampire air LP
+  airLightDamage: 9
+  airLightStartup: 9
+  airLightActive: 7
+  airLightRecovery: 9
+  airLightLength: 28
+  airMediumName: Vampire air MP
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: Vampire air HP
+  airHeavyDamage: 9
+  airHeavyStartup: 9
+  airHeavyActive: 4
+  airHeavyRecovery: 10
+  airHeavyLength: 25

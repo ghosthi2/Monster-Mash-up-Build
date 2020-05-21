@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e5b6ae46b7c8f4cb702cf1216ec487, type: 3}
+  m_Name: PlayerSoundPack
+  m_EditorClassIdentifier: 
+  dashClips:
+  - {fileID: 8300000, guid: 01afcb6866a39bb4e9f79dee23986538, type: 3}
+  - {fileID: 8300000, guid: 98f2200a8b543f844a04d1f74f5e4989, type: 3}
+  - {fileID: 8300000, guid: 919c0d41f7485ac4c846be70baf70afc, type: 3}
+  jumpClips:
+  - {fileID: 8300000, guid: 9530ea992a3251c4b855fcea49baa3c3, type: 3}
+  - {fileID: 8300000, guid: 701aba6d98d3f794f92efdeda9d33b7b, type: 3}
+  - {fileID: 8300000, guid: a7fa8c7b497045a468672ef961154a77, type: 3}
+  lightClips:
+  - {fileID: 8300000, guid: 581792b3f6af78f4082313bc8827c7a3, type: 3}
+  - {fileID: 8300000, guid: 663b7fcdb63ca2a49a7beae1084fe6d8, type: 3}
+  - {fileID: 8300000, guid: 4e30eca0839f5f14381a7389409554b1, type: 3}

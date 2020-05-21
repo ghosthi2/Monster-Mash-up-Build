@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0439c584b80c86b4c885da635d54c49c, type: 3}
+  m_Name: WerewolfLegs
+  m_EditorClassIdentifier: 
+  controller: {fileID: 22100000, guid: cc7029ce63a00b24999842e5e9a70f26, type: 2}
+  moveSpeed: 6
+  jumpForce: 12
+  maxJumpFrames: 17
+  maxDashFrames: 8
+  dashTime: 5
+  dashSpeed: 4.5
+  gravity: 2.5
+  fallingGravity: 7
+  standingLightName: werewolf Standing LK
+  standingLightDamage: 7
+  standingLightStartup: 9
+  standingLightActive: 15
+  standingLightRecovery: 15
+  standingLightLength: 45
+  standingMediumName: werewolf Standing MK
+  standingMediumDamage: 8
+  standingMediumStartup: 10
+  standingMediumActive: 23
+  standingMediumRecovery: 23
+  standingMediumLength: 65
+  standingHeavyName: werewolf Standing HK
+  standingHeavyDamage: 18
+  standingHeavyStartup: 15
+  standingHeavyActive: 11
+  standingHeavyRecovery: 25
+  standingHeavyLength: 50
+  crouchingLightName: werewolf Crouching LK
+  crouchingLightDamage: 0
+  crouchingLightStartup: 0
+  crouchingLightActive: 0
+  crouchingLightRecovery: 0
+  crouchingLightLength: 0
+  crouchingMediumName: werewolf Crouching MK
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: werewolf Crouching HK
+  crouchingHeavyDamage: 18
+  crouchingHeavyStartup: 13
+  crouchingHeavyActive: 13
+  crouchingHeavyRecovery: 38
+  crouchingHeavyLength: 75
+  airLightName: werewolf Air LK
+  airLightDamage: 8
+  airLightStartup: 6
+  airLightActive: 13
+  airLightRecovery: 7
+  airLightLength: 31
+  airMediumName: werewolf Air MK
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: werewolf Air HK
+  airHeavyDamage: 20
+  airHeavyStartup: 15
+  airHeavyActive: 15
+  airHeavyRecovery: 30
+  airHeavyLength: 60

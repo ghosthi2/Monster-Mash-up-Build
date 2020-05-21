@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0439c584b80c86b4c885da635d54c49c, type: 3}
+  m_Name: VampireLegs
+  m_EditorClassIdentifier: 
+  controller: {fileID: 22100000, guid: 1021fd114ab43074b87a4aa9e4b28aab, type: 2}
+  moveSpeed: 5
+  jumpForce: 13
+  maxJumpFrames: 17
+  maxDashFrames: 8
+  dashTime: 14
+  dashSpeed: 2.5
+  gravity: 2.5
+  fallingGravity: 2
+  standingLightName: Vampire Standing LK
+  standingLightDamage: 8
+  standingLightStartup: 9
+  standingLightActive: 19
+  standingLightRecovery: 14
+  standingLightLength: 45
+  standingMediumName: Vampire Standing MK
+  standingMediumDamage: 9
+  standingMediumStartup: 14
+  standingMediumActive: 14
+  standingMediumRecovery: 14
+  standingMediumLength: 65
+  standingHeavyName: Vampire Standing HK
+  standingHeavyDamage: 19
+  standingHeavyStartup: 18
+  standingHeavyActive: 18
+  standingHeavyRecovery: 24
+  standingHeavyLength: 50
+  crouchingLightName: Vampire Crouching LK
+  crouchingLightDamage: 0
+  crouchingLightStartup: 0
+  crouchingLightActive: 0
+  crouchingLightRecovery: 0
+  crouchingLightLength: 0
+  crouchingMediumName: Vampire Crouching MK
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: Vampire Crouching HK
+  crouchingHeavyDamage: 19
+  crouchingHeavyStartup: 15
+  crouchingHeavyActive: 15
+  crouchingHeavyRecovery: 40
+  crouchingHeavyLength: 75
+  airLightName: Vampire Air LK
+  airLightDamage: 9
+  airLightStartup: 7
+  airLightActive: 14
+  airLightRecovery: 7
+  airLightLength: 31
+  airMediumName: Vampire Air MK
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: Vampire Air HK
+  airHeavyDamage: 20
+  airHeavyStartup: 15
+  airHeavyActive: 15
+  airHeavyRecovery: 30
+  airHeavyLength: 60

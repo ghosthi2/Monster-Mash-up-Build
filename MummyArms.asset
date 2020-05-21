@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8755cbbdf758cde46aa23da0b7bc05cc, type: 3}
+  m_Name: MummyArms
+  m_EditorClassIdentifier: 
+  controller: {fileID: 22100000, guid: cff194ab58320fe468743ff9c8f95614, type: 2}
+  grabName: 
+  grabDamage: 0
+  grabStartup: 0
+  grabActive: 0
+  grabRecovery: 0
+  grabLength: 0
+  standingLightName: mummy standing LP
+  standingLightDamage: 15
+  standingLightStartup: 8
+  standingLightActive: 13
+  standingLightRecovery: 23
+  standingLightLength: 35
+  standingMediumName: mummy standing MP
+  standingMediumDamage: 18
+  standingMediumStartup: 18
+  standingMediumActive: 13
+  standingMediumRecovery: 28
+  standingMediumLength: 50
+  standingHeavyName: mummy standing HP
+  standingHeavyDamage: 23
+  standingHeavyStartup: 23
+  standingHeavyActive: 23
+  standingHeavyRecovery: 28
+  standingHeavyLength: 55
+  crouchingLightName: mummy crouching LP
+  crouchingLightDamage: 15
+  crouchingLightStartup: 13
+  crouchingLightActive: 8
+  crouchingLightRecovery: 18
+  crouchingLightLength: 30
+  crouchingMediumName: mummy crouching MP
+  crouchingMediumDamage: 0
+  crouchingMediumStartup: 0
+  crouchingMediumActive: 0
+  crouchingMediumRecovery: 0
+  crouchingMediumLength: 0
+  crouchingHeavyName: mummy crouching HP
+  crouchingHeavyDamage: 0
+  crouchingHeavyStartup: 0
+  crouchingHeavyActive: 0
+  crouchingHeavyRecovery: 0
+  crouchingHeavyLength: 0
+  airLightName: mummy air LP
+  airLightDamage: 10
+  airLightStartup: 10
+  airLightActive: 8
+  airLightRecovery: 10
+  airLightLength: 28
+  airMediumName: mummy air MP
+  airMediumDamage: 0
+  airMediumStartup: 0
+  airMediumActive: 0
+  airMediumRecovery: 0
+  airMediumLength: 0
+  airHeavyName: mummy air HP
+  airHeavyDamage: 10
+  airHeavyStartup: 10
+  airHeavyActive: 5
+  airHeavyRecovery: 10
+  airHeavyLength: 25
